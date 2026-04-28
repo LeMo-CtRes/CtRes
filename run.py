@@ -3,13 +3,19 @@ from __future__ import annotations
 import argparse
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable, Sequence
+from typing import Optional, Sequence
+import sys
+
+PROJECT_ROOT = Path(__file__).resolve().parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
 
 import numpy as np
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.svm import SVC
 
 from ctecho import CtEchoClassifier, CtEchoConfig
+from utils.utils_tsne import TsnePlotParams, params_for_task, plot_best_1x5, plot_single_task_tsne
 
 
 @dataclass(frozen=True)
@@ -20,6 +26,11 @@ class SplitData:
     x_test: np.ndarray
     timestamps_test: np.ndarray
     y_test: np.ndarray
+
+
+WIND_TURBINE_DATASET_DIR = Path("WindTurbineDataset")
+VALID_TASKS = ("pitch_bearing", "gearbox", "generator", "blade", "main_bearing")
+TASK_SPLIT_SUFFIX = "_split.npz"
 
 
 def build_config(
@@ -119,18 +130,46 @@ def load_split_npz(npz_path: Path) -> SplitData:
     )
 
 
+def load_wind_turbine_task(
+    task_code: str,
+    dataset_dir: Path = WIND_TURBINE_DATASET_DIR,
+) -> tuple[SplitData, Path]:
+    task = task_code.lower()
+    if task not in VALID_TASKS:
+        raise ValueError(f"task_code must be one of {VALID_TASKS}, got {task_code!r}")
+
+    split_path = dataset_dir / f"{task}{TASK_SPLIT_SUFFIX}"
+    if not split_path.exists():
+        raise FileNotFoundError(f"Missing wind turbine dataset split file: {split_path}")
+    return load_split_npz(split_path), split_path
+
+
 def run(
-    npz_path: Path,
+    npz_path: Optional[Path] = None,
     *,
+    task_code: str | None = None,
+    dataset_dir: Path = WIND_TURBINE_DATASET_DIR,
     batch_size: int | None = None,
     num_workers: int | None = None,
     device: str | None = None,
+    plot_tsne: bool = False,
+    tsne_params: TsnePlotParams | None = None,
 ) -> dict[str, object]:
-    split = load_split_npz(npz_path)
+    if task_code is not None:
+        split, eval_path = load_wind_turbine_task(task_code, dataset_dir=dataset_dir)
+        data_source = str(eval_path)
+        task_label = task_code.lower()
+    elif npz_path is not None:
+        split = load_split_npz(npz_path)
+        data_source = str(npz_path)
+        task_label = Path(npz_path).stem
+    else:
+        raise ValueError("Either npz_path or task_code must be provided.")
+
     config = build_config(batch_size=batch_size, num_workers=num_workers, device=device)
     model = CtEchoClassifier(config=config)
 
-    print("npz_path =", npz_path)
+    print("data_source =", data_source)
     print("x_train.shape =", split.x_train.shape)
     print("timestamps_train.shape =", split.timestamps_train.shape)
     print("y_train.shape =", split.y_train.shape)
@@ -160,38 +199,116 @@ def run(
     print("confusion_matrix:")
     print(confusion_matrix(split.y_test, test_pred))
 
-    return {
+    results = {
         "train_features": train_features,
         "test_features": test_features,
+        "y_train": split.y_train,
+        "y_test": split.y_test,
         "train_pred": train_pred,
         "test_pred": test_pred,
         "train_acc": train_acc,
         "test_acc": test_acc,
     }
+    if plot_tsne:
+        plot_result = plot_single_task_tsne(
+            train_features,
+            split.y_train,
+            test_features,
+            split.y_test,
+            task_code=task_label,
+            params=tsne_params,
+            show=True,
+        )
+        results["tsne"] = plot_result
+
+    return results
+
+
+def run_selected_wind_turbine_tasks(
+    *,
+    task_codes: Sequence[str] = VALID_TASKS,
+    dataset_dir: Path = WIND_TURBINE_DATASET_DIR,
+    batch_size: int | None = None,
+    num_workers: int | None = None,
+    device: str | None = None,
+    plot_tsne: bool = True,
+) -> dict[str, dict[str, object]]:
+    all_results: dict[str, dict[str, object]] = {}
+    task_plot_data: dict[str, dict[str, np.ndarray]] = {}
+    for task in task_codes:
+        task_params = params_for_task(task)
+
+        result = run(
+            task_code=task,
+            dataset_dir=dataset_dir,
+            batch_size=batch_size,
+            num_workers=num_workers,
+            device=device,
+            plot_tsne=False,
+            tsne_params=task_params,
+        )
+        all_results[task] = result
+        if plot_tsne:
+            task_plot_data[task] = plot_single_task_tsne(
+                result["train_features"],
+                result["y_train"],
+                result["test_features"],
+                result["y_test"],
+                task_code=task,
+                params=task_params,
+                show=False,
+            )
+
+    if plot_tsne:
+        plot_best_1x5(task_plot_data, show=True)
+
+    return all_results
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Load split irregular sequences from npz, extract CtEcho features, and run SVM classification."
+        description="Load split irregular sequences, extract CtEcho features, run SVM classification, and optionally plot t-SNE."
     )
     parser.add_argument(
         "npz_path",
+        nargs="?",
         type=Path,
         help="Path to a split npz containing train/test irregular series, timestamps, and labels.",
+    )
+    parser.add_argument(
+        "--dataset-dir",
+        type=Path,
+        default=WIND_TURBINE_DATASET_DIR,
+        help="Directory containing the wind turbine dataset split files.",
     )
     parser.add_argument("--batch-size", type=int, default=None, help="Override CtEcho batch_size.")
     parser.add_argument("--num-workers", type=int, default=None, help="Override CtEcho num_workers.")
     parser.add_argument("--device", default=None, help="Override device, for example 'cpu' or 'cuda'.")
+    parser.add_argument("--plot-tsne", action="store_true", help="Generate a t-SNE plot for the extracted test features.")
     return parser.parse_args()
 
 
 def main() -> None:
     args = parse_args()
+    if args.npz_path is None:
+        run_selected_wind_turbine_tasks(
+            task_codes=VALID_TASKS,
+            dataset_dir=args.dataset_dir,
+            batch_size=args.batch_size,
+            num_workers=args.num_workers,
+            device=args.device,
+            plot_tsne=True,
+        )
+        return
+
     run(
         args.npz_path,
+        dataset_dir=args.dataset_dir,
         batch_size=args.batch_size,
         num_workers=args.num_workers,
         device=args.device,
+        plot_tsne=args.plot_tsne,
+        tsne_params=TsnePlotParams(),
     )
 
 

@@ -10,10 +10,7 @@ import os
 import tempfile
 from functools import partial
 from torchdiffeq import odeint
-import sys
-
-sys.path.append(r'E:\weichy\ODECode')
-from utils_ode import find_continue_idx, evaluate_feature, get_data, normalize, seed_everything, sample_data_with_nans
+from utils.utils_ode import find_continue_idx, evaluate_feature, get_data, normalize, seed_everything, sample_data_with_nans
 
 
 def compute_single_hermite(args):

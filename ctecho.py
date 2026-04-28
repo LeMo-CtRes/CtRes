@@ -15,8 +15,8 @@ from sklearn.linear_model import RidgeClassifierCV
 from sklearn.svm import LinearSVC, SVC
 from torchdiffeq import odeint
 
-from utils_data import sample_data_with_nans, seed_everything
-from utils_speed import compute_hermite_coeffs_robust
+from utils.utils_data import sample_data_with_nans, seed_everything
+from utils.utils_speed import compute_hermite_coeffs_robust
 
 
 @dataclass
