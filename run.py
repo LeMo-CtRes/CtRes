@@ -14,7 +14,7 @@ import numpy as np
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 from sklearn.svm import SVC
 
-from ctecho import CtEchoClassifier, CtEchoConfig
+from ctres import CtResClassifier, CtResConfig
 from utils.utils_tsne import TsnePlotParams, params_for_task, plot_best_1x5, plot_single_task_tsne
 
 
@@ -38,12 +38,12 @@ def build_config(
     batch_size: int | None = None,
     num_workers: int | None = None,
     device: str | None = None,
-) -> CtEchoConfig:
-    """CtEcho parameters copied from run_shared_config.py without importing it."""
+) -> CtResConfig:
+    """CtRes parameters copied from run_shared_config.py without importing it."""
     config_batch_size = 1024 if batch_size is None else batch_size
     config_num_workers = 24 if num_workers is None else num_workers
 
-    return CtEchoConfig(
+    return CtResConfig(
         retain_rate=0.5,
         n_reservoir=100,
         connectivity=1.0,
@@ -167,7 +167,7 @@ def run(
         raise ValueError("Either npz_path or task_code must be provided.")
 
     config = build_config(batch_size=batch_size, num_workers=num_workers, device=device)
-    model = CtEchoClassifier(config=config)
+    model = CtResClassifier(config=config)
 
     print("data_source =", data_source)
     print("x_train.shape =", split.x_train.shape)
@@ -176,7 +176,7 @@ def run(
     print("x_test.shape =", split.x_test.shape)
     print("timestamps_test.shape =", split.timestamps_test.shape)
     print("y_test.shape =", split.y_test.shape)
-    print("ctecho_config =", config)
+    print("ctres_config =", config)
 
     train_features = model.extract_features(split.x_train, split.timestamps_train)
     test_features = model.extract_features(split.x_test, split.timestamps_test)
@@ -267,7 +267,7 @@ def run_selected_wind_turbine_tasks(
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Load split irregular sequences, extract CtEcho features, run SVM classification, and optionally plot t-SNE."
+        description="Load split irregular sequences, extract CtRes features, run SVM classification, and optionally plot t-SNE."
     )
     parser.add_argument(
         "npz_path",
@@ -281,8 +281,8 @@ def parse_args() -> argparse.Namespace:
         default=WIND_TURBINE_DATASET_DIR,
         help="Directory containing the wind turbine dataset split files.",
     )
-    parser.add_argument("--batch-size", type=int, default=None, help="Override CtEcho batch_size.")
-    parser.add_argument("--num-workers", type=int, default=None, help="Override CtEcho num_workers.")
+    parser.add_argument("--batch-size", type=int, default=None, help="Override CtRes batch_size.")
+    parser.add_argument("--num-workers", type=int, default=None, help="Override CtRes num_workers.")
     parser.add_argument("--device", default=None, help="Override device, for example 'cpu' or 'cuda'.")
     parser.add_argument("--plot-tsne", action="store_true", help="Generate a t-SNE plot for the extracted test features.")
     return parser.parse_args()

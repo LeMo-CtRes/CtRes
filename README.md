@@ -103,7 +103,7 @@ Run options:
   For each dataset, the script:
 
   1. loads the pre-split train/test `.npz`
-  2. extracts CtEcho features
+  2. extracts CtRes features
   3. trains an RBF SVM
   4. reports training accuracy, test accuracy, classification report, and confusion matrix
   5. generates a final t-SNE visualization
@@ -116,8 +116,8 @@ Supported arguments:
 
 - `npz_path`: optional path to a split `.npz` dataset
 - `--dataset-dir`: override the `WindTurbineDataset` directory
-- `--batch-size`: override `CtEchoConfig.batch_size`
-- `--num-workers`: override `CtEchoConfig.num_workers`
+- `--batch-size`: override `CtResConfig.batch_size`
+- `--num-workers`: override `CtResConfig.num_workers`
 - `--device`: choose compute device such as `cpu` or `cuda`
 - `--plot-tsne`: display t-SNE for a single-task run or a custom split `.npz`
 

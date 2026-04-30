@@ -20,7 +20,7 @@ from utils.utils_speed import compute_hermite_coeffs_robust
 
 
 @dataclass
-class CtEchoConfig:
+class CtResConfig:
     retain_rate: float = 0.9
     n_reservoir: int = 10
     connectivity: float = 1.0
@@ -63,7 +63,7 @@ def normalize_per_sample_observed(x_irregular: np.ndarray) -> np.ndarray:
     return normalized.numpy()
 
 
-class _CtEchoReservoirFunc(torch.nn.Module):
+class _CtResReservoirFunc(torch.nn.Module):
     def __init__(self, input_dim: int, n_reservoir: int, leaky: float, activation=torch.tanh):
         super().__init__()
         self.leaky = leaky
@@ -122,7 +122,7 @@ def _validate_coeffs_inputs(coeffs: np.ndarray, x_irregular: np.ndarray) -> np.n
     return coeffs
 
 
-def _build_reservoir_weights(input_dim: int, config: CtEchoConfig) -> Tuple[np.ndarray, np.ndarray]:
+def _build_reservoir_weights(input_dim: int, config: CtResConfig) -> Tuple[np.ndarray, np.ndarray]:
     rng = np.random.RandomState(config.seed)
     W_in = 2.0 * (rng.rand(input_dim, config.n_reservoir) - 0.5)
     W_res = rng.rand(config.n_reservoir, config.n_reservoir) - 0.5
@@ -155,12 +155,12 @@ def _batch_extract_readout_weights(
     ts_batch: torch.LongTensor,
     W_in: torch.Tensor,
     W_res: torch.Tensor,
-    config: CtEchoConfig,
+    config: CtResConfig,
 ) -> torch.Tensor:
     device = coeffs_batch.device
     batch_size, seq_len, input_dim = x_miss_batch.shape
     spline = torchcde.CubicSpline(coeffs_batch)
-    func = _CtEchoReservoirFunc(input_dim, config.n_reservoir, config.leaky).to(device)
+    func = _CtResReservoirFunc(input_dim, config.n_reservoir, config.leaky).to(device)
     func.set_weights(W_in, W_res)
     func.set_spline(spline)
 
@@ -185,9 +185,9 @@ def _batch_extract_readout_weights(
     return torch.linalg.solve(XtX + config.alpha * eye, XtY)
 
 
-class CtEchoClassifier:
-    def __init__(self, config: Optional[CtEchoConfig] = None):
-        self.config = config or CtEchoConfig()
+class CtResClassifier:
+    def __init__(self, config: Optional[CtResConfig] = None):
+        self.config = config or CtResConfig()
         self.classifiers_: Dict[str, object] = {}
         self.features_: Optional[np.ndarray] = None
         self.labels_: Optional[np.ndarray] = None
