@@ -66,6 +66,17 @@ The dataset covers the key components of the wind turbine and provides a compreh
 
   Vibration acceleration signals were collected from the main bearing in the horizontal direction, forming a single observation channel sampled at `2560 Hz`. This dataset contains two condition labels: normal operation and main-bearing damage.
 
+## Reproduction Environment
+
+This project has been reproduced on **Windows**.
+
+Validated environments include:
+
+- a **Python 3.11** environment created using the commands in this README
+- a project-local `.venv` environment using **Python 3.12**, with dependencies resolved from `requirements.txt` by the IDE
+- environment setup time of approximately **5 minutes**
+- an NVIDIA GPU driver environment reporting **CUDA 13.1**
+
 ## Usage
 
 Environment setup:
