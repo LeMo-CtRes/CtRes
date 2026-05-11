@@ -39,9 +39,13 @@ LeMo consists of three key stages for fault diagnosis in irregular sensor time s
 
 ## Dataset
 
-To comprehensively characterise the operating condition of the wind turbine, vibration acceleration data were collected from its major components using accelerometers, as shown below.
+To comprehensively characterise the operating condition of the wind turbine, vibration acceleration data were collected from its major components using accelerometers, as shown in the signal overview below.
 
-![Structural Diagram](./assets/Structuraldiagram.png)
+<video src="./assets/dataset-sensor-signals.mp4" controls>
+  Dataset sensor signal overview
+</video>
+
+[Open dataset sensor signal overview](./assets/dataset-sensor-signals.mp4)
 
 The dataset covers the key components of the wind turbine and provides a comprehensive description of its operating state:
 
