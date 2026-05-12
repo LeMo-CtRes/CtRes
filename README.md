@@ -20,6 +20,9 @@ The resulting framework supports two diagnosis settings:
 * **Offline diagnosis**, where collected samples are used for fault classification
 * **Online monitoring**, where new observations are compared with a reference model space to detect abnormal behavior
 
+## Guidance Video
+
+[![video](./assets/Structuraldiagram.png)](./assets/dataset-sensor-signals.mp4)
 
 ## Method
 
