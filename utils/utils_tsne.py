@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import math
 from dataclasses import dataclass
+from pathlib import Path
 from typing import Optional
 
 import matplotlib
@@ -376,7 +377,12 @@ def _plot_task_panel(fig, subplot_spec, task_code: str, labels: np.ndarray, emb_
     ax_right.set_xlim(left=0)
 
 
-def plot_best_1x5(task_plot_data: dict[str, dict[str, np.ndarray]], *, show: bool = True):
+def plot_best_1x5(
+    task_plot_data: dict[str, dict[str, np.ndarray]],
+    *,
+    show: bool = True,
+    save_path: Optional[str | Path] = None,
+):
     fig = plt.figure(figsize=(2.95 * len(TASKS), 2.85), dpi=220)
     outer = fig.add_gridspec(1, len(TASKS), wspace=0.04)
     for i, task in enumerate(TASKS):
@@ -390,6 +396,10 @@ def plot_best_1x5(task_plot_data: dict[str, dict[str, np.ndarray]], *, show: boo
             np.asarray(task_data["labels"], dtype=np.int64),
             np.asarray(task_data["emb_final"], dtype=np.float64),
         )
+    if save_path is not None:
+        save_path = Path(save_path)
+        save_path.parent.mkdir(parents=True, exist_ok=True)
+        fig.savefig(save_path, bbox_inches="tight", pad_inches=0)
     if show:
         plt.show()
     return fig

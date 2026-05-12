@@ -31,6 +31,7 @@ class SplitData:
 WIND_TURBINE_DATASET_DIR = Path("WindTurbineDataset")
 VALID_TASKS = ("pitch_bearing", "gearbox", "generator", "blade", "main_bearing")
 TASK_SPLIT_SUFFIX = "_split.npz"
+FIGURE_TSNE_PATH = PROJECT_ROOT / "assets" / "Figuretsne.svg"
 
 
 def build_config(
@@ -260,7 +261,7 @@ def run_selected_wind_turbine_tasks(
             )
 
     if plot_tsne:
-        plot_best_1x5(task_plot_data, show=True)
+        plot_best_1x5(task_plot_data, show=True, save_path=FIGURE_TSNE_PATH)
 
     return all_results
 

@@ -21,8 +21,8 @@ from utils.utils_speed import compute_hermite_coeffs_robust
 
 @dataclass
 class CtResConfig:
-    retain_rate: float = 0.9
-    n_reservoir: int = 10
+    retain_rate: float = 0.5
+    n_reservoir: int = 100
     connectivity: float = 1.0
     spectral_radius: float = 0.95
     alpha: float = 1e-3
@@ -31,9 +31,9 @@ class CtResConfig:
     rtol: float = 1e-3
     atol: float = 1e-4
     n_forget_points: int = 5
-    batch_size: int = 4096
+    batch_size: int = 1024
     seed: int = 42
-    num_workers: int = 4
+    num_workers: int = 24
     device: Optional[str] = None
 
 
