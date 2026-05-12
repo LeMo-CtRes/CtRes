@@ -20,10 +20,6 @@ The resulting framework supports two diagnosis settings:
 * **Offline diagnosis**, where collected samples are used for fault classification
 * **Online monitoring**, where new observations are compared with a reference model space to detect abnormal behavior
 
-## Guidance Video
-
-https://github.com/user-attachments/assets/88a77a48-6f4e-4f1f-960b-cc5020fcd96d
-
 ## Method
 
 LeMo consists of three key stages for fault diagnosis in irregular sensor time series:
@@ -44,7 +40,7 @@ LeMo consists of three key stages for fault diagnosis in irregular sensor time s
 
 To comprehensively characterise the operating condition of the wind turbine, vibration acceleration data were collected from its major components using accelerometers, as shown below.
 
-![Structural Diagram](./assets/Structuraldiagram.png)
+https://github.com/user-attachments/assets/88a77a48-6f4e-4f1f-960b-cc5020fcd96d
 
 The dataset covers the key components of the wind turbine and provides a comprehensive description of its operating state:
 
