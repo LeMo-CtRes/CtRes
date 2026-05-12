@@ -22,7 +22,7 @@ The resulting framework supports two diagnosis settings:
 
 ## Guidance Video
 
-[![video](./assets/Structuraldiagram.png)](./assets/dataset-sensor-signals.mp4)
+https://github.com/user-attachments/assets/88a77a48-6f4e-4f1f-960b-cc5020fcd96d
 
 ## Method
 
