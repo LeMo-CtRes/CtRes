@@ -1,7 +1,10 @@
 # LeMo (CtRes)
 
-
 ![Overall Framework](./assets/LeMo_framework.svg)
+
+## Structure and Signal Overview
+
+https://github.com/user-attachments/assets/88a77a48-6f4e-4f1f-960b-cc5020fcd96d
 
 ## Framework Overview
 
@@ -40,7 +43,7 @@ LeMo consists of three key stages for fault diagnosis in irregular sensor time s
 
 To comprehensively characterise the operating condition of the wind turbine, vibration acceleration data were collected from its major components using accelerometers, as shown below.
 
-https://github.com/user-attachments/assets/88a77a48-6f4e-4f1f-960b-cc5020fcd96d
+![Structural diagram](./assets/Structuraldiagram.png)
 
 The dataset covers the key components of the wind turbine and provides a comprehensive description of its operating state:
 
