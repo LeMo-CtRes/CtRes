@@ -40,7 +40,6 @@ def build_config(
     num_workers: int | None = None,
     device: str | None = None,
 ) -> CtResConfig:
-    """CtRes parameters copied from run_shared_config.py without importing it."""
     config_batch_size = 1024 if batch_size is None else batch_size
     config_num_workers = 24 if num_workers is None else num_workers
 

@@ -70,14 +70,18 @@ The dataset covers the key components of the wind turbine and provides a compreh
 
 ## Reproduction Environment
 
-This project has been reproduced on **Windows**.
+This project has been tested on **Windows 11** with the following Python versions:
 
-Validated environments include:
+- **Python 3.11**, used for the reproducible setup instructions below
+- **Python 3.12**, tested in a project-local `.venv` environment with dependencies installed from `requirements.txt`
 
-- a **Python 3.11** environment created using the commands in this README
-- a project-local `.venv` environment using **Python 3.12**, with dependencies resolved from `requirements.txt` by the IDE
-- environment setup time of approximately **5 minutes**
-- an NVIDIA GPU driver environment reporting **CUDA 13.1**
+For a consistent reproduction procedure, the instructions in this README use **Python 3.11**. Typical environment setup time is approximately **10 minutes**.
+
+Hardware requirements:
+
+- No non-standard hardware is required. The software can be run on a CPU.
+- A CUDA-capable NVIDIA GPU is optional and can accelerate feature extraction and the full demo execution.
+- The reported demo runtime below was measured using a GPU in an environment with an NVIDIA driver reporting **CUDA 13.1**.
 
 ## Usage
 
@@ -124,6 +128,28 @@ Run options:
 - `python run.py path/to/split_data.npz`
 
   Run the pipeline on a user-prepared split dataset.
+
+### Demo Runtime and Expected Output
+
+Running the complete bundled-data demo:
+
+```bash
+python run.py
+```
+
+takes **less than 5 minutes when using a GPU** in the tested environment. A GPU is not required; CPU execution is supported but can take longer.
+
+The command processes all five bundled datasets, prints the input shapes, CtRes configuration, extracted feature shapes, SVM accuracy, classification report, and confusion matrix for each component, and generates the t-SNE visualization shown above.
+
+Results from one complete demo run are summarized below:
+
+| Dataset | Train Accuracy | Test Accuracy | Confusion Matrix |
+| --- | ---: | ---: | --- |
+| Pitch-bearing | 1.0000 | 0.9420 | `[[251, 0, 19], [0, 270, 0], [0, 28, 242]]` |
+| Gearbox | 0.9767 | 0.9840 | `[[270, 0, 0], [3, 264, 3], [0, 7, 263]]` |
+| Generator | 0.9250 | 0.9611 | `[[259, 11], [10, 260]]` |
+| Blade | 0.9100 | 0.9852 | `[[266, 4], [4, 266]]` |
+| Main-bearing | 0.9400 | 0.9944 | `[[269, 1], [2, 268]]` |
 
 Supported arguments:
 
