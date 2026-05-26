@@ -4,7 +4,9 @@
 
 ## Structure and Signal Overview
 
-https://github.com/user-attachments/assets/88a77a48-6f4e-4f1f-960b-cc5020fcd96d
+
+https://github.com/user-attachments/assets/05876f55-8994-4c76-8598-9258f07ea239
+
 
 ## Framework Overview
 
