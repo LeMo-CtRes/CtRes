@@ -1,6 +1,6 @@
 # LeMo (CtRes)
 
-![Overall Framework](./assets/LeMo_framework.svg)
+
 
 ## Structure and Signal Overview
 
