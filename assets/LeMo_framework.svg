@@ -1,0 +1,2698 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 LeMo_framework.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="7.06299in" height="1.88976in"
+		viewBox="0 0 508.535 136.063" xml:space="preserve" color-interpolation-filters="sRGB" class="st36">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvSubprocessMaster" v:prompt="" v:val="VT4(Rectangle)"/>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#f5f5f5;stroke:none;stroke-width:0.25}
+		.st2 {fill:none;stroke:none;stroke-width:0.75}
+		.st3 {stroke:#f4b183;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st4 {marker-end:url(#mrkr4-32);stroke:#000000;stroke-dasharray:2.25,2.25;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st5 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.34246575342466}
+		.st6 {stroke:#cdcdcd;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st7 {fill:#f4b183;stroke:#000000;stroke-width:0.75}
+		.st8 {fill:none;stroke:none;stroke-width:1.25}
+		.st9 {fill:#000000;font-family:Arial;font-size:0.833336em;font-weight:bold}
+		.st10 {font-size:1em}
+		.st11 {fill:none;stroke:none;stroke-width:0.25}
+		.st12 {fill:#ffffff;stroke:#000000;stroke-width:0.75}
+		.st13 {fill:#ffffff;stroke:none;stroke-width:1}
+		.st14 {fill:#ffefa0;stroke:#d8d8d8;stroke-width:0.5}
+		.st15 {stroke:#4e86b9;stroke-linecap:butt;stroke-width:1}
+		.st16 {fill:#000000;stroke:none;stroke-width:1}
+		.st17 {fill:#b0d994;stroke:#d8d8d8;stroke-width:0.5}
+		.st18 {marker-end:url(#mrkr4-320);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.25}
+		.st19 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.46468401486989}
+		.st20 {fill:#000000;font-family:Arial;font-size:0.666664em;font-weight:bold}
+		.st21 {fill:#ffffff;stroke:none;stroke-width:1.25}
+		.st22 {fill:#ffb989;stroke:#d8d8d8;stroke-width:0.5}
+		.st23 {stroke:#4e86b9;stroke-linecap:butt;stroke-width:1.25}
+		.st24 {fill:#000000;stroke:none;stroke-width:1.25}
+		.st25 {marker-end:url(#mrkr4-426);stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5}
+		.st26 {fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;stroke-width:0.45454545454545}
+		.st27 {fill:#ffd965;stroke:#000000;stroke-width:0.5}
+		.st28 {fill:none;stroke:#000000;stroke-width:1}
+		.st29 {fill:#70ad47;stroke:#000000;stroke-width:0.5}
+		.st30 {fill:#c55a11;stroke:#000000;stroke-width:0.5}
+		.st31 {fill:#000000;stroke:none;stroke-width:0.25}
+		.st32 {fill:#ffffff;stroke:#000000;stroke-width:1.25}
+		.st33 {fill:#000000;font-family:Arial;font-size:1.00001em;font-weight:bold}
+		.st34 {fill:#9cc3e5;stroke:#000000;stroke-width:1}
+		.st35 {fill:#6496c4;stroke:#3f6d98;stroke-width:0.75}
+		.st36 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-32" class="st5" v:arrowType="4" v:arrowSize="0" v:setback="5.84" refX="-5.84" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.92,-2.92) "/>
+		</marker>
+		<marker id="mrkr4-320" class="st19" v:arrowType="4" v:arrowSize="0" v:setback="4.304" refX="-4.304" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.152,-2.152) "/>
+		</marker>
+		<marker id="mrkr4-426" class="st26" v:arrowType="4" v:arrowSize="1" v:setback="4.4" refX="-4.4" orient="auto"
+				markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-2.2,-2.2) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<v:userDefs>
+			<v:ud v:nameU="msvThemeOrder" v:val="VT0(0):26"/>
+		</v:userDefs>
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<v:layer v:name="电气" v:index="1"/>
+		<g id="shape2274-1" v:mID="2274" v:groupContext="shape" transform="translate(231.601,-1.95814)">
+			<title>矩形.2274</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="19.5591" width="21.2598" height="116.504" class="st1"/>
+		</g>
+		<g id="shape2275-3" v:mID="2275" v:groupContext="shape" transform="translate(173.409,-0.895151)">
+			<title>矩形.2275</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<rect x="0" y="19.5591" width="21.4826" height="116.504" class="st1"/>
+		</g>
+		<g id="shape2276-5" v:mID="2276" v:groupContext="shape" transform="translate(51.8528,114.093) rotate(-90)">
+			<title>圆形.2276</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.9 A2.13412 2.15903 0 1 1 4.27 133.9 A2.13412 2.15903 0 0 1 0 133.9 Z" class="st2"/>
+		</g>
+		<g id="shape2277-7" v:mID="2277" v:groupContext="shape" transform="translate(51.8677,41.9542) rotate(-90)">
+			<title>圆形.2277</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.9 A2.13412 2.15903 0 1 1 4.27 133.9 A2.13412 2.15903 0 0 1 0 133.9 Z" class="st2"/>
+		</g>
+		<g id="shape2278-9" v:mID="2278" v:groupContext="shape" v:layerMember="0"
+				transform="translate(118,17.5118) rotate(-64.7546)">
+			<title>曲线连接 2.2278</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M19.94 136.06 A29.3363 29.3363 0 0 1 -0 136.06" class="st3"/>
+		</g>
+		<g id="shape2279-12" v:mID="2279" v:groupContext="shape" v:layerMember="0"
+				transform="translate(119.97,98.9393) rotate(-107.728)">
+			<title>曲线连接 2.2279</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M18.57 136.06 A18.2739 18.2739 0 0 1 -0 136.06" class="st3"/>
+		</g>
+		<g id="shape2280-15" v:mID="2280" v:groupContext="shape" v:layerMember="0"
+				transform="translate(104.003,83.6826) rotate(-85.6832)">
+			<title>曲线连接 2.2280</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M18.43 136.06 A20.383 20.383 -180 0 0 -0 136.06" class="st3"/>
+		</g>
+		<g id="shape2281-18" v:mID="2281" v:groupContext="shape" v:layerMember="0"
+				transform="translate(116.932,88.6854) rotate(-111.047)">
+			<title>曲线连接 2.2281</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M19.69 136.06 A24.9547 24.9547 -180 0 0 -0 136.06" class="st3"/>
+		</g>
+		<g id="shape2282-21" v:mID="2282" v:groupContext="shape" v:layerMember="0"
+				transform="translate(111.558,143.204) rotate(-103.426)">
+			<title>曲线连接 2.2282</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M18.18 136.06 A26.1432 26.1432 0 0 1 -0 136.06" class="st3"/>
+		</g>
+		<g id="shape2283-24" v:mID="2283" v:groupContext="shape" v:layerMember="0"
+				transform="translate(112.282,71.7821) rotate(-64.832)">
+			<title>曲线连接 2.2283</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M19.93 136.06 A33.3429 33.3429 0 0 1 -0 136.06" class="st3"/>
+		</g>
+		<g id="shape2284-27" v:mID="2284" v:groupContext="shape" v:layerMember="0"
+				transform="translate(180.148,-114.27) rotate(-0.372122)">
+			<title>有向线 1.2284</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L49.1 136.06" class="st4"/>
+		</g>
+		<g id="shape2285-33" v:mID="2285" v:groupContext="shape" v:layerMember="0"
+				transform="translate(192.874,-78.2053) rotate(-0.372122)">
+			<title>有向线 1.2285</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L49.1 136.06" class="st4"/>
+		</g>
+		<g id="shape2286-38" v:mID="2286" v:groupContext="shape" v:layerMember="0"
+				transform="translate(184.371,-60.1707) rotate(-0.372122)">
+			<title>有向线 1.2286</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L49.1 136.06" class="st4"/>
+		</g>
+		<g id="shape2287-43" v:mID="2287" v:groupContext="shape" v:layerMember="0" transform="translate(183.867,-42.1388)">
+			<title>有向线 1.2287</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L49.1 136.06" class="st4"/>
+		</g>
+		<g id="shape2288-48" v:mID="2288" v:groupContext="shape" v:layerMember="0"
+				transform="translate(178.731,-6.0666) rotate(-0.372122)">
+			<title>有向线 1.2288</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L49.1 136.06" class="st4"/>
+		</g>
+		<g id="shape2289-53" v:mID="2289" v:groupContext="shape" v:layerMember="0"
+				transform="translate(219.263,-35.6378) rotate(15.377)">
+			<title>有向线 1.2289</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L56.17 136.06" class="st4"/>
+		</g>
+		<g id="shape2290-58" v:mID="2290" v:groupContext="shape" v:layerMember="0"
+				transform="translate(147.328,-3.97836) rotate(-13.4311)">
+			<title>有向线 1.2290</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L60.72 136.06" class="st4"/>
+		</g>
+		<g id="shape2291-63" v:mID="2291" v:groupContext="shape" v:layerMember="0"
+				transform="translate(248.827,-42.4154) rotate(28.1802)">
+			<title>有向线 1.2291</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L62.93 136.06" class="st4"/>
+		</g>
+		<g id="shape2292-68" v:mID="2292" v:groupContext="shape" v:layerMember="0"
+				transform="translate(211.918,-108.93) rotate(13.416)">
+			<title>有向线 1.2292</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L59.28 136.06" class="st4"/>
+		</g>
+		<g id="shape2293-73" v:mID="2293" v:groupContext="shape" v:layerMember="0"
+				transform="translate(149.488,-72.668) rotate(-18.6838)">
+			<title>有向线 1.2293</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L46.83 136.06" class="st4"/>
+		</g>
+		<g id="shape2294-78" v:mID="2294" v:groupContext="shape" v:layerMember="0"
+				transform="translate(119.785,-45.3898) rotate(-28.4341)">
+			<title>有向线 1.2294</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L63.11 136.06" class="st4"/>
+		</g>
+		<g id="shape2295-83" v:mID="2295" v:groupContext="shape" v:layerMember="0"
+				transform="translate(307.009,-23.4863) rotate(70.5635)">
+			<title>有向线 1.2295</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L38.24 136.06" class="st6"/>
+		</g>
+		<g id="shape2296-86" v:mID="2296" v:groupContext="shape" v:layerMember="0"
+				transform="translate(316.662,109.853) rotate(96.7232)">
+			<title>有向线 1.2296</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L36.32 136.06" class="st6"/>
+		</g>
+		<g id="shape2297-89" v:mID="2297" v:groupContext="shape" v:layerMember="0"
+				transform="translate(314.494,115.885) rotate(115.245)">
+			<title>有向线 1.2297</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L19.94 136.06" class="st6"/>
+		</g>
+		<g id="shape2298-92" v:mID="2298" v:groupContext="shape" transform="translate(57.6952,60.1599) rotate(-90)">
+			<title>圆形.2298</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2299-94" v:mID="2299" v:groupContext="shape" v:layerMember="0"
+				transform="translate(318.584,86.3271) rotate(94.3996)">
+			<title>有向线 1.2299</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L18.09 136.06" class="st6"/>
+		</g>
+		<g id="shape2300-97" v:mID="2300" v:groupContext="shape" transform="translate(49.1912,78.1946) rotate(-90)">
+			<title>圆形.2300</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2301-99" v:mID="2301" v:groupContext="shape" transform="translate(47.8037,96.2293) rotate(-90)">
+			<title>圆形.2301</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2302-101" v:mID="2302" v:groupContext="shape" transform="translate(43.5517,132.299) rotate(-90)">
+			<title>圆形.2302</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2303-103" v:mID="2303" v:groupContext="shape" transform="translate(44.969,24.0954) rotate(-90)">
+			<title>圆形.2303</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2304-105" v:mID="2304" v:groupContext="shape" transform="translate(105.949,96.2293) rotate(-90)">
+			<title>圆形.2304</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2305-107" v:mID="2305" v:groupContext="shape" transform="translate(115.841,59.8126) rotate(-90)">
+			<title>圆形.2305</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2306-109" v:mID="2306" v:groupContext="shape" transform="translate(110.186,42.1253) rotate(-90)">
+			<title>圆形.2306</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2307-111" v:mID="2307" v:groupContext="shape" transform="translate(103.115,23.748) rotate(-90)">
+			<title>圆形.2307</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2308-113" v:mID="2308" v:groupContext="shape" transform="translate(107.337,77.8473) rotate(-90)">
+			<title>圆形.2308</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2309-115" v:mID="2309" v:groupContext="shape" transform="translate(101.697,131.951) rotate(-90)">
+			<title>圆形.2309</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2310-117" v:mID="2310" v:groupContext="shape" transform="translate(110.172,113.917) rotate(-90)">
+			<title>圆形.2310</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 133.73 A2.30517 2.33208 0 0 1 4.61 133.73 A2.30517 2.33208 0 1 1 0 133.73 Z" class="st7"/>
+		</g>
+		<g id="shape2311-119" v:mID="2311" v:groupContext="shape" transform="translate(274.546,-119.587)">
+			<title>矩形.2311</title>
+			<desc>Fitting via CtRes</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="44.7874" cy="125.433" width="89.58" height="21.2598"/>
+			<rect x="0" y="114.803" width="89.5748" height="21.2598" class="st8"/>
+			<text x="5.34" y="128.43" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Fitting via C<tspan
+						class="st10" v:langID="2052">tRes</tspan></text>		</g>
+		<g id="shape2312-123" v:mID="2312" v:groupContext="shape" transform="translate(207.081,-119.587)">
+			<title>矩形.2312</title>
+			<desc>Interpolated</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="34.2992" cy="125.433" width="68.6" height="21.2598"/>
+			<rect x="0" y="114.803" width="68.5984" height="21.2598" class="st8"/>
+			<text x="5.69" y="128.43" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Interpolated</text>		</g>
+		<g id="shape2313-126" v:mID="2313" v:groupContext="shape" transform="translate(397.569,-107.832)">
+			<title>矩形.2313</title>
+			<desc>Learning in the Model Space</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="47.9258" cy="119.556" width="95.86" height="33.0149"/>
+			<rect x="0" y="103.048" width="95.8515" height="33.0149" class="st8"/>
+			<text x="12.09" y="116.56" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Learning in <tspan
+						class="st10" v:langID="2052">the </tspan><tspan x="17.36" dy="1.2em" class="st10">Model Space</tspan></text>		</g>
+		<g id="shape2314-131" v:mID="2314" v:groupContext="shape" transform="translate(243.162,-97.8805)">
+			<title>工作表.2314</title>
+			<rect v:rectContext="foreign" x="0" y="122.854" width="18.5953" height="13.2094" class="st11"/>
+			<switch>
+				<foreignObject x="0" y="122.854" width="18.5953" height="13.2094"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="5120" clip="rect(0 0 0 0)" v:data="data:metafile;base64,
+								eNrtVs1PU0EQn30PClSkrYIoan2gEvCjojExejCt5aEkFhCa6EFTCz7wGfpa6KtK1Gg0UeNBPPgPeCPxop49QPSmAaMmesHo
+								wbsxvRmpM/v2YcVq2opGTaf82NmdtzO7szOz+2zG8/bO/YZ3sID2ggxzmSpwZI0xAU5uAEn05zKZjD2cKdE/RZ8RDnGGZdiW
+								IypEv1K0Jfp/qRfi+DNBARUMbEdhDAqhFRgxti6qB/K0xMcnLXFHrjkyyavsmtINw6BBseQEiWXvJ995tfM1LYj7j0EC19EP
+								pwq2vwztUw0sE7Uvnzn0vS54Sey/Bz2vQRLa+C9/WokaCt0/+X9atvg5cW7Z+e8QNYDyv4r7GGAJohqxFFGDcFlXAHi4D6z5
+								5NM6HhMA9XxtAKsQDYjViDWItQgvYh1CQTSKueux3YDYiGgu1Z0/Rsy6xosmhiclO63YX5j7FAehqHkyPJbQlF2+NkUdSUVN
+								PW7wSJqXqB08mmyhr70vFN4J6d0PRvKwz+2K/GOib29oBAXnsHNcJhlGsnyPb3eCSynSrdwljkmUPMT52CoxtkSyv6uW/JIi
+								Uw40O1y4envtqJtHP402iPynrJhE7hXiLWqolywdVaRNIq5WusR8jLLhk+Sfs9Z6i4ly4A7rMS2pdGlnlN54LGrwTDj7wgvn
+								g3Vn/GKnW5mVlTuc1iSAltat7JJsa5/6TjsrSDvj7Qdm5b9lhTSYrV9tbIZvbTyUCt2BZYMtsJFCGxPCpyoLJBLJUEcwyMCL
+								QkK7ltSHDKVvQNeMAW2L0mkM+KCcQUUlBc4ugMHGsHYEhxMpUzkYNYZS0SENjsbwyPoHz6UutJitsPywbgSGh/dFk/pAMH5C
+								68FPkuApX7hyj9w3FuuPD6MoGE+N6tooCcFTFgor6llzNGprylLieDL99D1GRWVjtzrevi3Qk3a79kcCPR/XeZGvcwUgraY3
+								psf3RZBzu4LUjKvpTZED6XE+4sf24gFkApsi7RE1TX8BVzVD7zAJCV3M0Gsy0CmVg5PxkCNyMQmupVB+uQX/XTGJawVRwcmf
+								ThA5L6rxJ8nNK704vauov6lvLGlqMYi/gBsyzZx1DcYJ1E/Mer+LEPkHmdkV6Oq0M7Im6+ajPkXBLbT4nFm3hSJui8LJ1p6d
+								/4qQ2Rb+/fx//fJ35X+u98f2wt4fTBZeyvf9sRxxXYSNCiOQgii+PHV8hxkYCV2idzqvV6FSxPunCbGHwaJRMe/PxaRfsZ87
+								un5Y/6HY+p8rgkv1/y+u/4fs+j9ZO3iIQP1nb/Kv//nRGitkHnlFPt6+PFNx7O4UPIabjtKh/vRQF4W+AHQwhZs="/>
+				</foreignObject>
+				<svg viewBox="0 0 31.855 22.975" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
+						height="13.2094" overflow="hidden" preserveAspectRatio="none" width="18.5953" x="0" y="122.854">
+					<g transform="matrix(0.04, 0, 0, 0.039931, 0, 0)">
+						<g stroke="#000000" stroke-miterlimit="10" fill="none">
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+									font-size="448">
+								<text stroke="none" fill="#000000" x="0,301,1197" y="0" transform="translate(302,384)"
+										xml:space="preserve">()</text>
+							</g>
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+									font-size="448">
+								<text stroke="none" fill="#000000" x="0,896" y="0" transform="translate(449,384)"
+										xml:space="preserve">t</text>
+							</g>
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+									font-size="448">
+								<text stroke="none" fill="#000000" x="0,896" y="0" transform="translate(43,384)"
+										xml:space="preserve">u</text>
+							</g>
+						</g>
+					</g>
+					<mask id="mfid7" fill-rule="evenodd" fill="white" stroke="none"/>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="122.854" width="18.5953" height="13.2094" class="st11"/>
+		</g>
+		<g id="shape2315-134" v:mID="2315" v:groupContext="shape" transform="translate(163.813,-107.269)">
+			<title>工作表.2315</title>
+			<rect v:rectContext="foreign" x="0" y="121.663" width="10.2047" height="14.4" class="st11"/>
+			<switch>
+				<foreignObject x="0" y="121.663" width="10.2047" height="14.4"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="5120" clip="rect(0 0 0 0)" v:data="data:metafile;base64,
+								eNrtVk1MU0EQnt0HBQrSFkEE+XmQ6AG1gjEhXgylPIREfgIknkwp+IBn6B8tAomJnNCYKJ45GOXqSS9ePGD0JgESPHiR6MGj
+								iTG9IdSZfftIA5i0FTSYfjDZn+nO7uzMfG/XVl2fn72o/AK7cAUU2E4UgC1pjkkRcAJwOd5OJBLWdCKLI4UtFJuMYQ62uSh5
+								cpwv2yz+X/RBCP9ioIIGQWwnYAbSwQnMGMsW8YGywsX8kqlu32+NQvp8i1N6YBx0yBR24CzZn1TXle5wmhf9D0AYzzEEt9Le
+								vwT3Jw7MkdyXyhr6vSH7XPrfizevQxQaxV/qOIkW0vWf7v+aYva3ZdyS698mOYBCVCDuGKAQpQjlGEoxisP8BIh1Jdgel3da
+								JnICoFycDaACpRLlFEoVSrVcU4utilKHUp/lmX8GZn7GMwbDyCl2M/d31z7lQZc/NjYwE9bVZnejqkUm/TEjFBSZtKPR2kU2
+								WUp3W3/XwCWIX34ZSWF/sa+sPybHlkPfcOIJDjY46TCTlZBwd0FoKdPN2qUe41Q81HOzCjlXyK3fFfFBvsSoBs7YHHh66+wA
+								g1AiZytl/VNVLGHvFcosmi/npo0CssapV8pLeRWjatjkW9vmWR8zSQfOASOgR9VufUrtCwX8QVEZ0+s1cMdbNtUiPT3PzMq8
+								aLf4pAls0vZTdhZM2y3S9muenm0m2u979piEWWVBetvAPOFwtKvd62WgoJKkTY8ao0G1f9jQg8P6ObUzOOyGXAZ5+RTSZiSJ
+								60bQMz7e6o8aw97QTb3XP6pHwZW7+1gupX8mMBQaR5U3NDlh6BOkBFdO14CqTccm/JalJCO29yvLXzEY+XU92nzbBU9v3Om4
+								6vP0/qitwX6ZwwNxLX46Pt/qw57T4aVmXos3+Dri82KmBdu7HdjxNPjafFqc/j2OIoauM47A+2N4NQrQ9eSCnYlIExyMw71J
+								TGKFaK6QiYn7TUSSIr/s8s7sICtOcuEmdwqelRGaw23q+2eiMT0AG+vwQKGVkeqRDRIahz/V7ETfjBAD5Td10e3p7rTqoTjp
+								u0NjivQYDn4yk6tVydWZwLKfXH+q1Fl7HP36+/jh8Opvr+2/WX/7vT+a0nt/MEVGKdX3h4veGDJxNYigX358eRr4DgtiLnbL
+								0e2UXoVqBu+fGpRaBgeGTN6fB4k/2T/Lv/vy76LFvw9zRhZJaLy2kTr/pooqkxjeKjIfl+dW8248fwPv4JEt++nM4rDxC6iI
+								RfY="/>
+				</foreignObject>
+				<svg viewBox="0 0 17.826 24.241" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
+						height="14.4" overflow="hidden" preserveAspectRatio="none" width="10.2047" x="0" y="121.663">
+					<g transform="matrix(0.040179, 0, 0, 0.039474, 0, 0)">
+						<g stroke="#000000" stroke-miterlimit="10" fill="none">
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+									font-size="259">
+								<text stroke="none" fill="#000000" x="0,518" y="0" transform="translate(284,532)"
+										xml:space="preserve">1</text>
+							</g>
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+									font-size="448">
+								<text stroke="none" fill="#000000" x="0,896" y="0" transform="translate(43,416)"
+										xml:space="preserve">u</text>
+							</g>
+						</g>
+					</g>
+					<mask id="mfid8" fill-rule="evenodd" fill="white" stroke="none"/>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="121.663" width="10.2047" height="14.4" class="st11"/>
+		</g>
+		<g id="group2316-137" transform="translate(-33.4159,120.615) rotate(-90)" v:mID="2316" v:groupContext="group">
+			<title>工作表.2316</title>
+			<g id="shape2317-138" v:mID="2317" v:groupContext="shape">
+				<title>圆角矩形</title>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+				</v:userDefs>
+				<path d="M6.03 136.06 L89.35 136.06 A6.03216 6.03216 -180 0 0 95.39 130.03 L95.39 50.37 A6.03216 6.03216 -180 0 0
+							 89.35 44.34 L6.03 44.34 A6.03216 6.03216 -180 0 0 0 50.37 L0 130.03 A6.03216 6.03216 -180 0 0 6.03 136.06
+							 Z" class="st12"/>
+			</g>
+			<g id="group2318-140" transform="translate(2.29992,-2.37198)" v:mID="2318" v:groupContext="group">
+				<title>工作表.2318</title>
+				<g id="shape2319-141" v:mID="2319" v:groupContext="shape" transform="translate(0,-9.83835)">
+					<title>矩形</title>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					</v:userDefs>
+					<rect x="0" y="68.76" width="90.7865" height="67.303" class="st13"/>
+				</g>
+				<g id="group2320-143" v:mID="2320" v:groupContext="group">
+					<title>工作表.2320</title>
+					<g id="group2321-144" transform="translate(7.99361E-15,-64.8301)" v:mID="2321" v:groupContext="group">
+						<title>工作表.2321</title>
+						<g id="shape2322-145" v:mID="2322" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st14"/>
+						</g>
+						<g id="group2323-147" transform="translate(0.88428,-3.39106)" v:mID="2323" v:groupContext="group">
+							<title>工作表.2323</title>
+							<g id="shape2324-148" v:mID="2324" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2325-151" v:mID="2325" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2326-154" v:mID="2326" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2327-157" v:mID="2327" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2328-160" v:mID="2328" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+						</g>
+						<g id="shape2329-163" v:mID="2329" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st15"/>
+						</g>
+						<g id="shape2330-166" v:mID="2330" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st15"/>
+						</g>
+					</g>
+					<g id="group2331-169" transform="translate(7.99361E-15,-39.3582)" v:mID="2331" v:groupContext="group">
+						<title>工作表.2331</title>
+						<g id="shape2332-170" v:mID="2332" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st14"/>
+						</g>
+						<g id="group2333-172" transform="translate(0.88428,-3.39106)" v:mID="2333" v:groupContext="group">
+							<title>工作表.2333</title>
+							<g id="shape2334-173" v:mID="2334" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2335-176" v:mID="2335" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2336-179" v:mID="2336" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2337-182" v:mID="2337" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2338-185" v:mID="2338" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+						</g>
+						<g id="shape2339-188" v:mID="2339" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st15"/>
+						</g>
+						<g id="shape2340-191" v:mID="2340" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st15"/>
+						</g>
+					</g>
+					<g id="group2341-194" v:mID="2341" v:groupContext="group">
+						<title>工作表.2341</title>
+						<g id="shape2342-195" v:mID="2342" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st14"/>
+						</g>
+						<g id="group2343-197" transform="translate(0.88428,-3.39106)" v:mID="2343" v:groupContext="group">
+							<title>工作表.2343</title>
+							<g id="shape2344-198" v:mID="2344" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2345-201" v:mID="2345" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2346-204" v:mID="2346" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2347-207" v:mID="2347" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2348-210" v:mID="2348" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+						</g>
+						<g id="shape2349-213" v:mID="2349" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st15"/>
+						</g>
+						<g id="shape2350-216" v:mID="2350" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st15"/>
+						</g>
+					</g>
+					<g id="group2351-219" transform="translate(44.3517,-25.4719)" v:mID="2351" v:groupContext="group">
+						<title>工作表.2351</title>
+						<g id="shape2352-220" v:mID="2352" v:groupContext="shape" transform="translate(1.01169E-14,-8.32047)">
+							<title>圆形</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 0 1 0 134.94 Z" class="st16"/>
+						</g>
+						<g id="shape2353-222" v:mID="2353" v:groupContext="shape">
+							<title>圆形.1837</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 0 1 0 134.94 Z" class="st16"/>
+						</g>
+						<g id="shape2354-224" v:mID="2354" v:groupContext="shape" transform="translate(1.01169E-14,-4.16023)">
+							<title>圆形.1838</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 0 1 0 134.94 Z" class="st16"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="group2355-226" transform="translate(-21.9024,125.932) rotate(-90)" v:mID="2355" v:groupContext="group">
+			<title>工作表.2355</title>
+			<g id="shape2356-227" v:mID="2356" v:groupContext="shape">
+				<title>圆角矩形.2028</title>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+				</v:userDefs>
+				<path d="M6.03 136.06 L89.35 136.06 A6.03216 6.03216 -180 0 0 95.39 130.03 L95.39 50.37 A6.03216 6.03216 -180 0 0
+							 89.35 44.34 L6.03 44.34 A6.03216 6.03216 -180 0 0 0 50.37 L0 130.03 A6.03216 6.03216 -180 0 0 6.03 136.06
+							 Z" class="st12"/>
+			</g>
+			<g id="group2357-229" transform="translate(2.29992,-2.37198)" v:mID="2357" v:groupContext="group">
+				<title>工作表.2357</title>
+				<g id="shape2358-230" v:mID="2358" v:groupContext="shape" transform="translate(0,-9.83835)">
+					<title>矩形</title>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					</v:userDefs>
+					<rect x="0" y="68.76" width="90.7865" height="67.303" class="st13"/>
+				</g>
+				<g id="group2359-232" v:mID="2359" v:groupContext="group">
+					<title>工作表.2359</title>
+					<g id="group2360-233" transform="translate(7.99361E-15,-64.8301)" v:mID="2360" v:groupContext="group">
+						<title>工作表.2360</title>
+						<g id="shape2361-234" v:mID="2361" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st17"/>
+						</g>
+						<g id="group2362-236" transform="translate(0.88428,-3.39106)" v:mID="2362" v:groupContext="group">
+							<title>工作表.2362</title>
+							<g id="shape2363-237" v:mID="2363" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2364-240" v:mID="2364" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2365-243" v:mID="2365" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2366-246" v:mID="2366" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2367-249" v:mID="2367" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+						</g>
+						<g id="shape2368-252" v:mID="2368" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M-0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st15"/>
+						</g>
+						<g id="shape2369-255" v:mID="2369" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st15"/>
+						</g>
+					</g>
+					<g id="group2370-258" transform="translate(7.99361E-15,-39.3582)" v:mID="2370" v:groupContext="group">
+						<title>工作表.2370</title>
+						<g id="shape2371-259" v:mID="2371" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st17"/>
+						</g>
+						<g id="group2372-261" transform="translate(0.88428,-3.39106)" v:mID="2372" v:groupContext="group">
+							<title>工作表.2372</title>
+							<g id="shape2373-262" v:mID="2373" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2374-265" v:mID="2374" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2375-268" v:mID="2375" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2376-271" v:mID="2376" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2377-274" v:mID="2377" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+						</g>
+						<g id="shape2378-277" v:mID="2378" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M-0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st15"/>
+						</g>
+						<g id="shape2379-280" v:mID="2379" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st15"/>
+						</g>
+					</g>
+					<g id="group2380-283" v:mID="2380" v:groupContext="group">
+						<title>工作表.2380</title>
+						<g id="shape2381-284" v:mID="2381" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st17"/>
+						</g>
+						<g id="group2382-286" transform="translate(0.88428,-3.39106)" v:mID="2382" v:groupContext="group">
+							<title>工作表.2382</title>
+							<g id="shape2383-287" v:mID="2383" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2384-290" v:mID="2384" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2385-293" v:mID="2385" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2386-296" v:mID="2386" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st15"/>
+							</g>
+							<g id="shape2387-299" v:mID="2387" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st15"/>
+							</g>
+						</g>
+						<g id="shape2388-302" v:mID="2388" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M-0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st15"/>
+						</g>
+						<g id="shape2389-305" v:mID="2389" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st15"/>
+						</g>
+					</g>
+					<g id="group2390-308" transform="translate(44.3517,-25.4719)" v:mID="2390" v:groupContext="group">
+						<title>工作表.2390</title>
+						<g id="shape2391-309" v:mID="2391" v:groupContext="shape" transform="translate(1.01169E-14,-8.32047)">
+							<title>圆形</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 1 1 0 134.94 Z" class="st16"/>
+						</g>
+						<g id="shape2392-311" v:mID="2392" v:groupContext="shape">
+							<title>圆形.1837</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 1 1 0 134.94 Z" class="st16"/>
+						</g>
+						<g id="shape2393-313" v:mID="2393" v:groupContext="shape" transform="translate(1.01169E-14,-4.16023)">
+							<title>圆形.1838</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 1 1 0 134.94 Z" class="st16"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="shape2394-315" v:mID="2394" v:groupContext="shape" v:layerMember="0" transform="translate(3.98106,-116.995)">
+			<title>有向线 1.2394</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L105.17 136.06" class="st18"/>
+		</g>
+		<g id="shape2395-321" v:mID="2395" v:groupContext="shape" v:layerMember="0"
+				transform="translate(140.044,19.0678) rotate(90)">
+			<title>有向线 1.2395</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L100.07 136.06" class="st18"/>
+		</g>
+		<g id="shape2396-326" v:mID="2396" v:groupContext="shape" transform="translate(99.5435,-106.031)">
+			<title>矩形.2396</title>
+			<desc>Channel</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="20.2251" cy="132.305" width="40.46" height="7.51594"/>
+			<rect x="0" y="128.547" width="40.4502" height="7.51594" class="st8"/>
+			<text x="4.45" y="134.71" class="st20" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Channel</text>		</g>
+		<g id="group2397-329" transform="translate(-10.389,131.25) rotate(-90)" v:mID="2397" v:groupContext="group">
+			<title>工作表.2397</title>
+			<g id="shape2398-330" v:mID="2398" v:groupContext="shape">
+				<title>圆角矩形.2029</title>
+				<v:userDefs>
+					<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+					<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+					<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+					<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+					<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.083781432903396):1"/>
+				</v:userDefs>
+				<path d="M6.03 136.06 L89.35 136.06 A6.03216 6.03216 -180 0 0 95.39 130.03 L95.39 50.37 A6.03216 6.03216 -180 0 0
+							 89.35 44.34 L6.03 44.34 A6.03216 6.03216 -180 0 0 0 50.37 L0 130.03 A6.03216 6.03216 -180 0 0 6.03 136.06
+							 Z" class="st12"/>
+			</g>
+			<g id="group2399-332" transform="translate(2.29992,-2.37198)" v:mID="2399" v:groupContext="group">
+				<title>工作表.2399</title>
+				<g id="shape2400-333" v:mID="2400" v:groupContext="shape" transform="translate(0,-9.83835)">
+					<title>矩形</title>
+					<v:userDefs>
+						<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+					</v:userDefs>
+					<rect x="0" y="68.76" width="90.7865" height="67.303" class="st21"/>
+				</g>
+				<g id="group2401-335" v:mID="2401" v:groupContext="group">
+					<title>工作表.2401</title>
+					<g id="group2402-336" transform="translate(7.99361E-15,-64.8301)" v:mID="2402" v:groupContext="group">
+						<title>工作表.2402</title>
+						<g id="shape2403-337" v:mID="2403" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st22"/>
+						</g>
+						<g id="group2404-339" transform="translate(0.88428,-3.39106)" v:mID="2404" v:groupContext="group">
+							<title>工作表.2404</title>
+							<g id="shape2405-340" v:mID="2405" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2406-343" v:mID="2406" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2407-346" v:mID="2407" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2408-349" v:mID="2408" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2409-352" v:mID="2409" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st23"/>
+							</g>
+						</g>
+						<g id="shape2410-355" v:mID="2410" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M-0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st23"/>
+						</g>
+						<g id="shape2411-358" v:mID="2411" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st23"/>
+						</g>
+					</g>
+					<g id="group2412-361" transform="translate(7.99361E-15,-39.3582)" v:mID="2412" v:groupContext="group">
+						<title>工作表.2412</title>
+						<g id="shape2413-362" v:mID="2413" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st22"/>
+						</g>
+						<g id="group2414-364" transform="translate(0.88428,-3.39106)" v:mID="2414" v:groupContext="group">
+							<title>工作表.2414</title>
+							<g id="shape2415-365" v:mID="2415" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2416-368" v:mID="2416" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2417-371" v:mID="2417" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2418-374" v:mID="2418" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2419-377" v:mID="2419" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st23"/>
+							</g>
+						</g>
+						<g id="shape2420-380" v:mID="2420" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M-0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st23"/>
+						</g>
+						<g id="shape2421-383" v:mID="2421" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st23"/>
+						</g>
+					</g>
+					<g id="group2422-386" v:mID="2422" v:groupContext="group">
+						<title>工作表.2422</title>
+						<g id="shape2423-387" v:mID="2423" v:groupContext="shape">
+							<title>圆角矩形.27</title>
+							<v:userDefs>
+								<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(1):5"/>
+								<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+								<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+								<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+								<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.046957392677659):1"/>
+							</v:userDefs>
+							<path d="M3.38 136.06 L87.41 136.06 A3.38088 3.38088 -180 0 0 90.79 132.68 L90.79 117.29 A3.38088 3.38088
+										 -180 0 0 87.41 113.91 L3.38 113.91 A3.38088 3.38088 -180 0 0 0 117.29 L0 132.68 A3.38088
+										 3.38088 -180 0 0 3.38 136.06 Z" class="st22"/>
+						</g>
+						<g id="group2424-389" transform="translate(0.88428,-3.39106)" v:mID="2424" v:groupContext="group">
+							<title>工作表.2424</title>
+							<g id="shape2425-390" v:mID="2425" v:groupContext="shape" v:layerMember="1">
+								<title>信号波形</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2426-393" v:mID="2426" v:groupContext="shape" v:layerMember="1"
+									transform="translate(12.9418,0)">
+								<title>信号波形.2</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A2.87359 20.2087 0 0 1 4.6 127.98 A2.87359 20.2087 -180 0 0 9.2 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2427-396" v:mID="2427" v:groupContext="shape" v:layerMember="1"
+									transform="translate(22.1373,-8.52651E-14)">
+								<title>信号波形.3</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A4.79357 20.2087 0 0 1 7.67 127.98 A4.79357 20.2087 -180 0 0 15.34 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2428-399" v:mID="2428" v:groupContext="shape" v:layerMember="1"
+									transform="translate(37.4767,-2.84217E-14)">
+								<title>信号波形.4</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M-0 127.98 A2.23076 20.2087 0 0 1 3.57 127.98 A2.23076 20.2087 -180 0 0 7.14 127.98"
+										class="st23"/>
+							</g>
+							<g id="shape2429-402" v:mID="2429" v:groupContext="shape" v:layerMember="1"
+									transform="translate(44.6152,-8.52651E-14)">
+								<title>信号波形.5</title>
+								<v:custProps>
+									<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+											v:val="VT4(方波)"/>
+									<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey=""
+											v:invis="false" v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+								</v:custProps>
+								<v:userDefs>
+									<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+									<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+									<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+									<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+								</v:userDefs>
+								<path d="M0 127.98 A4.04431 20.2087 0 0 1 6.47 127.98 A4.04431 20.2087 -180 0 0 12.94 127.98"
+										class="st23"/>
+							</g>
+						</g>
+						<g id="shape2430-405" v:mID="2430" v:groupContext="shape" v:layerMember="1"
+								transform="translate(58.4412,-3.40215)">
+							<title>信号波形.2</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M-0 127.98 A4.40284 20.2087 0 0 1 7.04 127.98 A4.40284 20.2087 -180 0 0 14.09 127.98"
+									class="st23"/>
+						</g>
+						<g id="shape2431-408" v:mID="2431" v:groupContext="shape" v:layerMember="1"
+								transform="translate(72.4918,-3.19295)">
+							<title>信号波形.3</title>
+							<v:custProps>
+								<v:cp v:nameU="SubType" v:lbl="类型" v:type="1" v:format="方波;正弦波;锯齿波;斜波;3 状态数据" v:langID="2052"
+										v:val="VT4(方波)"/>
+								<v:cp v:nameU="SubType" v:lbl="" v:prompt="" v:type="0" v:format="" v:sortKey="" v:invis="false"
+										v:ask="false" v:langID="0" v:cal="0" v:val="VT4(正弦波)"/>
+							</v:custProps>
+							<v:userDefs>
+								<v:ud v:nameU="SubType" v:val="VT0(0):26"/>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+								<v:ud v:nameU="visDescription" v:val="VT4(表示各种信号波形。)"/>
+								<v:ud v:nameU="SubType" v:prompt="" v:val="VT0(1):26"/>
+							</v:userDefs>
+							<path d="M0 127.98 A5.407 20.2087 0 0 1 8.65 127.98 A5.407 20.2087 -180 0 0 17.3 127.98" class="st23"/>
+						</g>
+					</g>
+					<g id="group2432-411" transform="translate(44.3517,-25.4719)" v:mID="2432" v:groupContext="group">
+						<title>工作表.2432</title>
+						<g id="shape2433-412" v:mID="2433" v:groupContext="shape" transform="translate(1.01169E-14,-8.32047)">
+							<title>圆形</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 1 1 0 134.94 Z" class="st24"/>
+						</g>
+						<g id="shape2434-414" v:mID="2434" v:groupContext="shape">
+							<title>圆形.1837</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 1 1 0 134.94 Z" class="st24"/>
+						</g>
+						<g id="shape2435-416" v:mID="2435" v:groupContext="shape" transform="translate(1.01169E-14,-4.16023)">
+							<title>圆形.1838</title>
+							<v:userDefs>
+								<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+							</v:userDefs>
+							<path d="M0 134.94 A1.04152 1.12172 0 0 1 2.08 134.94 A1.04152 1.12172 0 1 1 0 134.94 Z" class="st24"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="shape2436-418" v:mID="2436" v:groupContext="shape" transform="translate(0.0708661,-2.47445)">
+			<title>矩形.2436</title>
+			<desc>Time</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="13.5354" cy="131.881" width="27.08" height="8.36426"/>
+			<rect x="0" y="127.699" width="27.0709" height="8.36426" class="st8"/>
+			<text x="4.2" y="134.28" class="st20" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Time</text>		</g>
+		<g id="shape2437-421" v:mID="2437" v:groupContext="shape" transform="translate(396.893,-25.6755)">
+			<title>工作表.2437</title>
+			<path d="M0 136.06 L93.49 136.06" class="st25"/>
+		</g>
+		<g id="shape2438-427" v:mID="2438" v:groupContext="shape" transform="translate(268.791,118.891) rotate(-90)">
+			<title>工作表.2438</title>
+			<path d="M0 136.06 L74.96 136.06" class="st25"/>
+		</g>
+		<g id="shape2439-432" v:mID="2439" v:groupContext="shape" transform="translate(544.147,-39.8991) rotate(45)">
+			<title>十字形.2439</title>
+			<v:userDefs>
+				<v:ud v:nameU="ScaleFactor" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ControlX1" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ControlY1" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlX2" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlY2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="LockBars" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ControlY1" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+				<v:ud v:nameU="ControlX2" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+			</v:userDefs>
+			<path d="M0 130.39 L5.67 130.39 L5.67 136.06 L8.81 136.06 L8.81 130.39 L14.48 130.39 L14.48 127.25 L8.81 127.25 L8.81
+						 121.58 L5.67 121.58 L5.67 127.25 L0 127.25 L0 130.39 Z" class="st27"/>
+		</g>
+		<g id="shape2440-434" v:mID="2440" v:groupContext="shape" transform="translate(374.756,135.769) rotate(-120)">
+			<title>椭圆形.2440</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 116.35 A19.1767 19.7129 0 0 1 38.35 116.35 A19.1767 19.7129 0 1 1 0 116.35 Z" class="st28"/>
+		</g>
+		<g id="shape2441-436" v:mID="2441" v:groupContext="shape" transform="translate(467.128,221.403) rotate(180)">
+			<title>椭圆形.2441</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 125.82 A22.0016 10.2418 0 1 1 44 125.82 A22.0016 10.2418 0 1 1 -0 125.82 Z" class="st28"/>
+		</g>
+		<g id="shape2442-438" v:mID="2442" v:groupContext="shape" transform="translate(559.796,-39.8039) rotate(45)">
+			<title>十字形.2442</title>
+			<v:userDefs>
+				<v:ud v:nameU="ScaleFactor" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ControlX1" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ControlY1" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlX2" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlY2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="LockBars" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ControlY1" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+				<v:ud v:nameU="ControlX2" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+			</v:userDefs>
+			<path d="M0 130.39 L5.67 130.39 L5.67 136.06 L8.81 136.06 L8.81 130.39 L14.48 130.39 L14.48 127.25 L8.81 127.25 L8.81
+						 121.58 L5.67 121.58 L5.67 127.25 L0 127.25 L0 130.39 Z" class="st27"/>
+		</g>
+		<g id="shape2443-440" v:mID="2443" v:groupContext="shape" transform="translate(551.859,-25.3472) rotate(45)">
+			<title>十字形.2443</title>
+			<v:userDefs>
+				<v:ud v:nameU="ScaleFactor" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ControlX1" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ControlY1" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlX2" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlY2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="LockBars" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ControlY1" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+				<v:ud v:nameU="ControlX2" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+			</v:userDefs>
+			<path d="M0 130.39 L5.67 130.39 L5.67 136.06 L8.81 136.06 L8.81 130.39 L14.48 130.39 L14.48 127.25 L8.81 127.25 L8.81
+						 121.58 L5.67 121.58 L5.67 127.25 L0 127.25 L0 130.39 Z" class="st27"/>
+		</g>
+		<g id="shape2444-442" v:mID="2444" v:groupContext="shape" transform="translate(522.036,-0.449588) rotate(45)">
+			<title>十字形.2444</title>
+			<v:userDefs>
+				<v:ud v:nameU="ScaleFactor" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ControlX1" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ControlY1" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlX2" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlY2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="LockBars" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ControlY1" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+				<v:ud v:nameU="ControlX2" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+			</v:userDefs>
+			<path d="M0 130.39 L5.67 130.39 L5.67 136.06 L8.81 136.06 L8.81 130.39 L14.48 130.39 L14.48 127.25 L8.81 127.25 L8.81
+						 121.58 L5.67 121.58 L5.67 127.25 L0 127.25 L0 130.39 Z" class="st29"/>
+		</g>
+		<g id="shape2445-444" v:mID="2445" v:groupContext="shape" transform="translate(540.461,-0.449588) rotate(45)">
+			<title>十字形.2445</title>
+			<v:userDefs>
+				<v:ud v:nameU="ScaleFactor" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ControlX1" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ControlY1" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlX2" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlY2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="LockBars" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ControlY1" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+				<v:ud v:nameU="ControlX2" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+			</v:userDefs>
+			<path d="M0 130.39 L5.67 130.39 L5.67 136.06 L8.81 136.06 L8.81 130.39 L14.48 130.39 L14.48 127.25 L8.81 127.25 L8.81
+						 121.58 L5.67 121.58 L5.67 127.25 L0 127.25 L0 130.39 Z" class="st29"/>
+		</g>
+		<g id="shape2446-446" v:mID="2446" v:groupContext="shape" transform="translate(509.29,-23.5495) rotate(45)">
+			<title>十字形.2446</title>
+			<v:userDefs>
+				<v:ud v:nameU="ScaleFactor" v:val="VT0(1):26"/>
+				<v:ud v:nameU="ControlX1" v:val="VT0(0):26"/>
+				<v:ud v:nameU="ControlY1" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlX2" v:val="VT0(0.66929133858268):24"/>
+				<v:ud v:nameU="ControlY2" v:val="VT0(0):26"/>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="LockBars" v:prompt="" v:val="VT0(1):5"/>
+				<v:ud v:nameU="ControlY1" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+				<v:ud v:nameU="ControlX2" v:prompt="" v:val="VT0(0.078756200915672):1"/>
+			</v:userDefs>
+			<path d="M0 130.39 L5.67 130.39 L5.67 136.06 L8.81 136.06 L8.81 130.39 L14.48 130.39 L14.48 127.25 L8.81 127.25 L8.81
+						 121.58 L5.67 121.58 L5.67 127.25 L0 127.25 L0 130.39 Z" class="st30"/>
+		</g>
+		<g id="shape2447-448" v:mID="2447" v:groupContext="shape" transform="translate(3.8369,-119.587)">
+			<title>矩形.2447</title>
+			<desc>Sensor Data Space</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="61.3701" cy="125.433" width="122.75" height="21.2598"/>
+			<rect x="0" y="114.803" width="122.74" height="21.2598" class="st8"/>
+			<text x="16.07" y="128.43" class="st9" v:langID="1033"><v:paragraph v:horizAlign="1"/><v:tabList/>Sensor <tspan
+						class="st10" v:langID="2052">D</tspan>ata <tspan class="st10" v:langID="2052">S</tspan>pace</text>		</g>
+		<g id="shape2448-453" v:mID="2448" v:groupContext="shape" transform="translate(465.277,-32.2787)">
+			<title>矩形.2448</title>
+			<desc>Normal model set</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.0467" cy="127.187" width="46.1" height="17.7528"/>
+			<rect x="0" y="118.31" width="46.0934" height="17.7528" class="st8"/>
+			<text x="9.27" y="124.79" class="st20" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Normal<v:newlineChar/><tspan
+						x="4.38" dy="1.2em" class="st10">model set</tspan></text>		</g>
+		<g id="shape2449-457" v:mID="2449" v:groupContext="shape" transform="translate(404.865,-72.0224)">
+			<title>矩形.2449</title>
+			<desc>Faulty model 2</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="19.6622" cy="127.003" width="39.33" height="18.1194"/>
+			<rect x="0" y="117.944" width="39.3243" height="18.1194" class="st8"/>
+			<text x="7.88" y="124.6" class="st20" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Faulty <tspan x="4.55"
+						dy="1.2em" class="st10">model </tspan>2</text>		</g>
+		<g id="shape2450-461" v:mID="2450" v:groupContext="shape" transform="translate(428.133,-93.4927)">
+			<title>矩形.2450</title>
+			<desc>Faulty model set 1</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="38.9966" cy="128.749" width="78" height="14.6283"/>
+			<rect x="0" y="121.435" width="77.9933" height="14.6283" class="st8"/>
+			<text x="4.1" y="131.15" class="st20" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Faulty model set 1</text>		</g>
+		<g id="shape2452-464" v:mID="2452" v:groupContext="shape" v:layerMember="0" transform="translate(256.402,-60.0931)">
+			<title>有向线 1.2452</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L11.63 136.06" class="st18"/>
+		</g>
+		<g id="shape2453-469" v:mID="2453" v:groupContext="shape" transform="translate(160.026,-119.587)">
+			<title>矩形.2453</title>
+			<desc>Input</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="23.9933" cy="125.433" width="47.99" height="21.2598"/>
+			<rect x="0" y="114.803" width="47.9865" height="21.2598" class="st8"/>
+			<text x="11.78" y="128.43" class="st9" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Input</text>		</g>
+		<g id="shape2454-472" v:mID="2454" v:groupContext="shape" transform="translate(162.92,-70.7928)">
+			<title>工作表.2454</title>
+			<rect v:rectContext="foreign" x="0" y="121.663" width="11.9906" height="14.4" class="st11"/>
+			<switch>
+				<foreignObject x="0" y="121.663" width="11.9906" height="14.4"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="5120" clip="rect(0 0 0 0)" v:data="data:metafile;base64,
+								eNrtVk1sEkEUfjNbKKVVoLb+1IpbE3vwB2s1US+mCFv1QNsUEk8Gsa66hr8CVUlM9OJPPIhHT0ZPHjzpxcR4qNGbRpvowYtG
+								E70bw00F35udbQitClg1VR68zJuZnXnz/r6Zmeeetzfv9LyDKtoNCpTKbWCvGGOSBbkBuOyXyuWyNVxu0qKir8h2GcMWbG3I
+								rbLvkG2T/l0ahxT+cqCCBklsM5CHemg5Zoy1F+GB8oyL8Wlzeni+NQrNOyxMGYU46NAoOYGzSntqXdc1i2kBtD8BaTzHYThR
+								t/5O1E8Y2CKxr5Y19L0hZS7tH0PP65CFAfGrnVbiDvXaT/4fV0y5JONWWf92iQEUojbhY4B25A7kJchLkV3mFSDWdWK7TPq0
+								W+QEwApxNoBVyD3Iq5F7kdfINWuxVZH7kNc1ceavETOv8YaJYeQUp5n71bVPeRCK5Y5H8mld3eEbULXJqVjOSCVFJs3OaMMi
+								m6xJXzAcimyH4q67kzXoF3pl/THZtwzajsJ15Pec5jCTlYww95qYpUw3a5ckxql4SPKxVXKsnVvfdfBDHDjVQL/dhae3zg5w
+								CDrlaI+sf6qKaZTuIU/j9iu4uUcb7cZJ6uJdfCejavjMv5bMs15lEg7cESOhZ9UR/ZQ6nkrEkqIyTr/wwplA96khaelmZlbm
+								oNPCk0Gw82otN9hGMLUMSS0PeH1amGg/ztE2BeeUa9LufuZPp7Oh4UCAAcEPcVDPGseSanjC0JMT+iZ1f3LCBzYGrQ4K7g6E
+								iwNG0h+P74lljYlA6og+FjumZ8Fjqz6WRwnnE4dTcZwKpKYyhp6hSfC0hCKqdjqXiVk7VWxif/Ls6QcMi6NvVCsEt/jHim7X
+								3qh/7NNaL8rdLj8UteL6YmFPFCW3K0BNQStuiO4rFsTIELZn96Hg3xANRrUi/f2uDoamM46E/mPoGgXIPTZwMhFzIhfjcHEK
+								01khwGtn+OWlQXQZkyhK/nKCrDuJiJ+5W6CtjM4FVLEunM/m9AT0v4DLCq0M8aP9xNRPv/bO5oAZHQbKd6pjxD+y36qKpRW3
+								D/Upyrew84WZiK1KxK6PrJ0r60+Vc9bui7/+Xr38af3lf73+5mr5/fU33/tja33vD6bIKNX6/vBQRGXKajCJ1sTw5WngOyyJ
+								WTgieydrehWqDbx/vPQeYbBg1Mj7cyHpV/Q38fcH+LvNwt/7/Og2YurPvKkdf39OvSYcPLIC13v+eevB2w/hMVyx/+cXZpP+
+								AH0DghBF3g=="/>
+				</foreignObject>
+				<svg viewBox="0 0 20.393 24.241" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
+						height="14.4" overflow="hidden" preserveAspectRatio="none" width="11.9906" x="0" y="121.663">
+					<g transform="matrix(0.039062, 0, 0, 0.039474, 0, 0)">
+						<g stroke="#000000" stroke-miterlimit="10" fill="none">
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+									font-size="259">
+								<text stroke="none" fill="#000000" x="0,518" y="0" transform="translate(312,532)"
+										xml:space="preserve">2</text>
+							</g>
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+									font-size="448">
+								<text stroke="none" fill="#000000" x="0,896" y="0" transform="translate(43,416)"
+										xml:space="preserve">u</text>
+							</g>
+						</g>
+					</g>
+					<mask id="mfid9" fill-rule="evenodd" fill="white" stroke="none"/>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="121.663" width="11.9906" height="14.4" class="st11"/>
+		</g>
+		<g id="shape2455-475" v:mID="2455" v:groupContext="shape" transform="translate(163.218,-52.8907)">
+			<title>工作表.2455</title>
+			<rect v:rectContext="foreign" x="0" y="121.663" width="11.3953" height="14.4" class="st11"/>
+			<switch>
+				<foreignObject x="0" y="121.663" width="11.3953" height="14.4"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="5120" clip="rect(0 0 0 0)" v:data="data:metafile;base64,
+								eNrtVk1ME0EUfjMLBcpPW35EEWEh0YM/iGJCvBhqWYRDCwEST6ZWXHBN/2iL0sREL/7ERDHGgyejZ0968eIBo+GiQRM8eNFg
+								ondjekNb35udJU1FbStq1L72Zd7M7Myb9/fNvHjuWr5zr+Ut5NABUCCdqQJb1hiTLMgJwGU/nclkrOFMif4q+oxskzEsw7Yc
+								uUL2K2Vbon+XRiGCvwSooEEY2xgkoRDagBlj7UV4oCxyMT5vTg+stUah+UoLU4YhCDoUS3bgLNuefNc1rmKaB+0PQRTPcQxO
+								Fqy/HvUTBpZJ7MtnDX1vSJlL+0fQ8zrEoVv88qeNuEOh9pP/RxVTTsu4Zde/TWIAhahK+BigGrkGuRa5DtlhXgFiXT22DdKn
+								TSInAJrF2QA2Ibcgb0ZuRd4i17RjqyJ3IHeWcOaPETOv8aKJYeQUu5n7ubVPeeANJE6MJ6O62tvVrWrTM4GEEQmLTFqd0QZE
+								NlmTXf1j3vF9kNp/fzoP/UKvrD8m+5ZBLhRuIb/jNIeZrMSEuTfFLGW6WbskMU7FQ1IX2yTHqrn1XQ0/ypcZ1cA2mwNPb50d
+								4CjUy9EWWf9UFfMoPUC+jds3c3OPKtqNk9TIG3k3o2pY4Z/T5lmvMQkHznEjpMdVn35aHY2EAmFRGbNLbXDG03S6T1q6i5mV
+								uddu4UlP0sZztdxmO8DU0ie1POSFaWGi/fCVthk4p9yUdm9j7mg07h3weBgQ/BD363FjKqyOTRh6eELfqQ6FJ7qgnEFFJQW3
+								F+HisBF2B4MHA3FjwhM5ro8EpvQ4uMpzj+VSxpKhY5EgTnkiMzFDj9EkuMq846o2m4gFrJ2yNrE9XXz2HsNS2TGszfXvdo+k
+								nI5DfvfIx/Y2lJscbkhpqa2puYN+lJwODzVzWmq7fzA1J0b6sD07iIJ7u7/fr6Xo73bUMDSdcST0H0PXKEDuKQc7EzEncjAO
+								F2cwnRUCvGqGX17qQZcxiaLkLzvIupOIuMKdAm1ldC6gis6xZDyhh6BhCS4rtPKKMtlATP3o67bVHDCjw0D5RnX43L4hqyrq
+								sm4f6lOUr2PnEzMRW5WIXRhZO2fXnyrnrN3//vp79fJ31N/XWn59/a31/thT2PuDKTJK+b4/XBRRmbIaTKM1AXx5GvgOC2MW
+								+mTvVF6vQrWI908bvUcYrBsV8/5cT/oZ/SX8/Q7+Llj4e6N2coGY+i/e5I+/P6ZWEw4eW4E7fv55xZG7j+AJXLX95xdmiX4D
+								fQEV1UmR"/>
+				</foreignObject>
+				<svg viewBox="0 0 19.128 24.241" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
+						height="14.4" overflow="hidden" preserveAspectRatio="none" width="11.3953" x="0" y="121.663">
+					<g transform="matrix(0.039583, 0, 0, 0.039474, 0, 0)">
+						<g stroke="#000000" stroke-miterlimit="10" fill="none">
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+									font-size="259">
+								<text stroke="none" fill="#000000" x="0,518" y="0" transform="translate(304,532)"
+										xml:space="preserve">3</text>
+							</g>
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+									font-size="448">
+								<text stroke="none" fill="#000000" x="0,896" y="0" transform="translate(43,416)"
+										xml:space="preserve">u</text>
+							</g>
+						</g>
+					</g>
+					<mask id="mfid10" fill-rule="evenodd" fill="white" stroke="none"/>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="121.663" width="11.3953" height="14.4" class="st11"/>
+		</g>
+		<g id="shape2456-478" v:mID="2456" v:groupContext="shape" transform="translate(162.92,1.13386)">
+			<title>工作表.2456</title>
+			<rect v:rectContext="foreign" x="0" y="121.663" width="11.9906" height="14.4" class="st11"/>
+			<switch>
+				<foreignObject x="0" y="121.663" width="11.9906" height="14.4"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="5120" clip="rect(0 0 0 0)" v:data="data:metafile;base64,
+								eNrtVk1ME0EUfjNLCxSkLYIIKiwmekBENCToxVDKoiT8BUg8mVJxwTV0W9oiNDFRY6KJB/HIyehJE0968eIBozcNkuDBi0YT
+								DVdjelOo783OkoYfbZFg0H7ty7yZ2Zk3M++9b2bujffj/cdVn2AFToICS6lCcKa1MSkCHgAu60upVMpuTuWwrbCI4pQ+zMPS
+								gZIv6wWyzOHfRR+E8RcHFTQwsYxCArLBLowYey7iA2WWi/YZq7t9rTEK9RfYnNIDo6DDRuECztL3k+m4smVO8+P+QxDBdZyD
+								i1nbL0X7xIF5kvsyGUPfG1Lncv+9ePI6xKBR/DLHbpwh2/3T+fcplr4k/Zae/07JAeSiQnHGAEUoxSg7UEpQ3NYVIMaVYrlT
+								nmm5iAmACrE2gEqUKpQ9KHtR9skxNViqKLUo+3M889fArGt8w2DoOcVlxf7K3Kc46ArGLwwkIrra3NCoamPjwbgRNkUkLfdo
+								7SKa7M6Gtv6ugSZInngyloF9YVfmH5N1e0NNqNxF+cypDyNZiYrtToteinQrd0ljnJKHtAZWKduKuP1dMR/kwCkHDjrduHp7
+								7QCDUCpbq2T+U1bMoPYUZQanr+DWHIU0GyetjJfx44yy4TtfXLLWekesBBfnGTBCekzt1ifUvnAoaIrMmJyvhsv+8okWudPD
+								zMrMYy6bT0xw8pVW7rFDYFlpkVaeccjKChPl11XWxuGqMi33fZD5IpFYV7vfz4Doh6RNjxkjpto/ZOjmkF6vdphDDeBgkF9A
+								zm1GujhjmL7R0dZgzBjyh8/rvcERPQZex8pleZX+ROhceBS7/OHxqKFHqRO8eV0DqjYZjwbtmdImcb6aff0F3VJQ26NNtR3x
+								9SY97lMBX++3mmrUy90+SGrJA8mp1gBqHrefiiktWRc4nZwSLS1YXjmNiq8u0BbQkvT3uYsZbp1xBJ4fw6NRgI7HAS4mfE5w
+								Mw43xzGcFSK8IoZfXjfxyJhkUTovF8i8k4z4nXsE20rv3EAT+/sTsbgegoV5uKXQyIeO4QUSqkfeVy/HgOUdBso62dHt6+6w
+								s6Ik7fahOnn5AVZ+MIuxVcnY2cGeOT3/VNlnz7798+/d263Iv9VW1s2/xGbl31rvj6PZvT+YIr2U6fvDSx6VIavBGLJJEF+e
+								Br7DTIzCblm7lNGrUN3A+6ea3iMMNg0beX9uJv7Efo5/f8G/nTb/BiuGO0moPvchc/79PfZadPDCdlz9tTf5Zx89h5dw2/mf
+								X5g5bAF+AqDVScs="/>
+				</foreignObject>
+				<svg viewBox="0 0 20.393 24.241" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
+						height="14.4" overflow="hidden" preserveAspectRatio="none" width="11.9906" x="0" y="121.663">
+					<g transform="matrix(0.039062, 0, 0, 0.039474, 0, 0)">
+						<g stroke="#000000" stroke-miterlimit="10" fill="none">
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="italic" font-weight="400"
+									font-size="259">
+								<text stroke="none" fill="#000000" x="0,518" y="0" transform="translate(312,532)"
+										xml:space="preserve">n</text>
+							</g>
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+									font-size="448">
+								<text stroke="none" fill="#000000" x="0,896" y="0" transform="translate(43,416)"
+										xml:space="preserve">u</text>
+							</g>
+						</g>
+					</g>
+					<mask id="mfid11" fill-rule="evenodd" fill="white" stroke="none"/>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="121.663" width="11.9906" height="14.4" class="st11"/>
+		</g>
+		<g id="group2457-481" transform="translate(168.014,-36.1511)" v:mID="2457" v:groupContext="group">
+			<title>工作表.2457</title>
+			<g id="shape2458-482" v:mID="2458" v:groupContext="shape" transform="translate(8.74301E-15,-10.2929)">
+				<title>圆形</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 135.16 a0.901492 0.901492 0 1 1 1.80298 0 a0.901492 0.901492 0 0 1 -1.80298 0 Z" class="st31"/>
+			</g>
+			<g id="shape2459-484" v:mID="2459" v:groupContext="shape">
+				<title>圆形.1837</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 135.16 a0.901492 0.901492 0 1 1 1.80298 0 a0.901492 0.901492 0 0 1 -1.80298 0 Z" class="st31"/>
+			</g>
+			<g id="shape2460-486" v:mID="2460" v:groupContext="shape" transform="translate(8.74301E-15,-5.14645)">
+				<title>圆形.1838</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 135.16 a0.901492 0.901492 0 1 1 1.80298 0 a0.901492 0.901492 0 0 1 -1.80298 0 Z" class="st31"/>
+			</g>
+		</g>
+		<g id="shape2463-488" v:mID="2463" v:groupContext="shape" transform="translate(278.66,-5.68123)">
+			<title>圆角的矩形</title>
+			<v:userDefs>
+				<v:ud v:nameU="CTypeTopLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeTopRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotLeftSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CTypeBotRightSnip" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockHoriz" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockVert" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="CornerLockDiag" v:prompt="" v:val="VT0(0):5"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.15748031496063):24"/>
+				<v:ud v:nameU="visVersion" v:prompt="" v:val="VT0(15):26"/>
+				<v:ud v:nameU="TopLeftOffset" v:prompt="" v:val="VT0(0.10105197128371):1"/>
+				<v:ud v:nameU="TopRightOffset" v:prompt="" v:val="VT0(0.089713850019575):1"/>
+				<v:ud v:nameU="BotLeftOffset" v:prompt="" v:val="VT0(0.10105197128371):1"/>
+				<v:ud v:nameU="BotRightOffset" v:prompt="" v:val="VT0(0.089713850019575):1"/>
+			</v:userDefs>
+			<path d="M7.28 136.06 L80 136.06 A6.45929 6.45929 -180 0 0 86.46 129.6 L86.46 33.7 A6.45929 6.45929 -180 0 0 80 27.24
+						 L7.28 27.24 A7.27562 7.27562 -180 0 0 0 34.51 L0 128.79 A7.27562 7.27562 -180 0 0 7.28 136.06 Z"
+					class="st32"/>
+		</g>
+		<g id="shape2464-490" v:mID="2464" v:groupContext="shape" transform="translate(278.66,-87.5825)">
+			<title>矩形.2247</title>
+			<desc>ODESolver</desc>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+			</v:userDefs>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="43.2283" cy="122.602" width="86.46" height="26.9226"/>
+			<rect x="0" y="109.14" width="86.4567" height="26.9226" class="st8"/>
+			<text x="11.88" y="126.2" class="st33" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>ODESolver</text>		</g>
+		<g id="shape2465-493" v:mID="2465" v:groupContext="shape" transform="translate(342.213,-9.25379)">
+			<title>工作表.2465</title>
+			<rect v:rectContext="foreign" x="0" y="119.254" width="16.8094" height="16.8094" class="st11"/>
+			<switch>
+				<foreignObject x="0" y="119.254" width="16.8094" height="16.8094"
+						requiredExtensions="http://schemas.microsoft.com/visio/2003/SVGExtensions/">
+					<v:foreignData v:dataType="ole" v:type="33280" v:orgSize="5120" clip="rect(0 0 0 0)" v:data="data:metafile;base64,
+								eNrtVk1ME1EQnvcWSilIW+RfhIWoB6KIxoR4MZSyCIlgBRJOpimwwBr6Q1uEJiZqSDQxUTxz82YiFz17wOhNAyR44CLBg3dj
+								eiNSZ96+JQ0/SVshBtPZ/fJ+Zt+8n5n59q2turdeva37DnvkBiiwkyoGW1ofkxDiAuCyvZNKpazuVF5OlPxG2KQPC7AsRBTJ
+								tl2Wefl/ZQDC+MRBBQ1CWEYhAdlIFUaMZYv4QFnhon/ZVHcfNEYhvd3ilNswBTrkKg7gLH0/mY6r2OU0L+4/CBFcxwjcy3r+
+								cpyfOLBAcl8mY+h7Q9a53L8PT16HGLSJJ3OpQQvZ7p/O/5Zi1nek39Lz3yY5gFxULM4YoARRijiFKEM4zV+AGFeO5Wl5ppUi
+								JgCqxdoAahF1iDOIesRZOaYRSxXRhGjO88w/E2b+xnMWhp5THGbs7819ioO+QHxyKBHR1fbWNlWbngnEjXBIRNKuRusW0WQp
+								W7sG+4auQfL6u+kM5hfzyvxjsm1tyK6Y2OSkw0hWwmK7i0JLkW7mLtUYp+ShWiurlX0l3PqulC/jQzlwwebE1VtrB+SNctlb
+								J/OfsmIZa68Rj9DCJDdtFJM1TrUKPsbrOWXDNt/YMdf6kkk6cA0ZQT2m9uuz6kA4GAiJzJhbb4AH3srZDrnTS8zMzKsOi0+i
+								CZ+0vcU6wLQN0vZ7np1tJsqf++YYxg8W5W5bmCcSifV1e70MFFQSuvSYMRFSB0cNPTSqX1R7Q6OtUMigyE4ubUeSGDZCnqmp
+								zkDMGPWGx3RfYEKPgbtw77LcymAiOBKeQpU3PBM19CgpwV3QN6Rqc/FowLKUZsT2eeXLD3SGvSmsLXRd9viSLudNv8f3q7EB
+								65VODyS15PnkQqcfay6nl4oFLdni70kuiJ4OLB/2YMXT4u/ya0l6Pc5ShltnHAXPj+HRKEDHUwgOJjxN4mQcng5jECtEcyVM
+								dDyOEkmK+HLIM3OAzDjJhdvcJXhWeugJTtM8mIjF9SAsrcMzhUY+rxhfIlA78q1h1/umhxgoh+RFv6e/18qHsrT/DrXJ03e4
+								iSrJwzU55r9lPz3/VKmz5jj5+bfx9fjyb7/tQ/MvcfT5d9D940p29w+mSC9lev9w0x1DBq4G0zADAbx5GngPC2Es9svW/Yxu
+								hWoO958GRCODI5Nc7p9HKX8zf55/D+TfeYt/56vH5wnUXtvMnH8zlXqTGD4qMh7Pza8W3X3zAT7BC1v+15mX45Y/E7pFfQ=="/>
+				</foreignObject>
+				<svg viewBox="0 0 28.059 28.076" enable-background="new" color-interpolation-filters="sRGB" clip="rect(0 0 0 0)"
+						height="16.8094" overflow="hidden" preserveAspectRatio="none" width="16.8094" x="0" y="119.254">
+					<g transform="matrix(0.039773, 0, 0, 0.039773, 0, 0)">
+						<g stroke="#000000" stroke-miterlimit="10" fill="none">
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="400"
+									font-size="296">
+								<text stroke="none" fill="#000000" x="0,592" y="0" transform="translate(540,612)"
+										xml:space="preserve">r</text>
+							</g>
+							<g font-family="&#39;Times New Roman&#39;,roman,serif" font-style="normal" font-weight="700"
+									font-size="512">
+								<text stroke="none" fill="#000000" x="0,1024" y="0" transform="translate(64,480)"
+										xml:space="preserve">W</text>
+							</g>
+						</g>
+					</g>
+					<mask id="mfid12" fill-rule="evenodd" fill="white" stroke="none"/>
+				</svg>
+			</switch>
+			<rect v:rectContext="foreign" x="0" y="119.254" width="16.8094" height="16.8094" class="st11"/>
+		</g>
+		<g id="group2466-496" transform="translate(285.747,-16.3594)" v:mID="2466" v:groupContext="group">
+			<title>工作表.2466</title>
+			<g id="shape2467-497" v:mID="2467" v:groupContext="shape" transform="translate(-90.7015,99.0556) rotate(-90)">
+				<title>圆形.204</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2468-499" v:mID="2468" v:groupContext="shape" transform="translate(-101.096,74.0829) rotate(-90)">
+				<title>圆形.206</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2469-501" v:mID="2469" v:groupContext="shape" transform="translate(-95.9334,117.997) rotate(-90)">
+				<title>圆形.207</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2470-503" v:mID="2470" v:groupContext="shape" transform="translate(-77.5082,80.7097) rotate(-90)">
+				<title>圆形.208</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2471-505" v:mID="2471" v:groupContext="shape" transform="translate(-110.981,112.328) rotate(-90)">
+				<title>圆形.209</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2472-507" v:mID="2472" v:groupContext="shape" transform="translate(-112.941,136.063) rotate(-90)">
+				<title>圆形.210</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2473-509" v:mID="2473" v:groupContext="shape" transform="translate(-83.622,130.394) rotate(-90)">
+				<title>圆形.211</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2474-511" v:mID="2474" v:groupContext="shape" transform="translate(-71.2964,108.514) rotate(-90)">
+				<title>圆形.212</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2475-513" v:mID="2475" v:groupContext="shape" transform="translate(-64.2098,89.2136) rotate(-90)">
+				<title>圆形.213</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2476-515" v:mID="2476" v:groupContext="shape" transform="translate(-123.3,84.9617) rotate(-90)">
+				<title>圆形.214</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2477-517" v:mID="2477" v:groupContext="shape" transform="translate(-128.434,104.255) rotate(-90)">
+				<title>圆形.215</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 132.25 A3.81457 3.81457 0 0 1 7.63 132.25 A3.81457 3.81457 0 0 1 0 132.25 Z" class="st34"/>
+			</g>
+			<g id="shape2478-519" v:mID="2478" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-15.6216,217.227) rotate(-156.401)">
+				<title>有向线 1</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L23.09 136.06" class="st18"/>
+			</g>
+			<g id="shape2479-524" v:mID="2479" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-63.9793,51.6438) rotate(-57.9328)">
+				<title>有向线 1.227</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L12.75 136.06" class="st18"/>
+			</g>
+			<g id="shape2480-529" v:mID="2480" v:groupContext="shape" v:layerMember="0"
+					transform="translate(156.334,128.764) rotate(96.938)">
+				<title>有向线 1.228</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L10.84 136.06" class="st18"/>
+			</g>
+			<g id="shape2481-534" v:mID="2481" v:groupContext="shape" v:layerMember="0"
+					transform="translate(177.177,133.019) rotate(113.12)">
+				<title>有向线 1.229</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L11.63 136.06" class="st18"/>
+			</g>
+			<g id="shape2482-539" v:mID="2482" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-108.214,62.8924) rotate(-72.1058)">
+				<title>有向线 1.230</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L26.79 136.06" class="st18"/>
+			</g>
+			<g id="shape2483-544" v:mID="2483" v:groupContext="shape" v:layerMember="0"
+					transform="translate(67.6304,-21.6781) rotate(26.1665)">
+				<title>有向线 1.231</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L6.81 136.06" class="st18"/>
+			</g>
+			<g id="shape2484-549" v:mID="2484" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-104.805,190.964) rotate(-116.831)">
+				<title>有向线 1.232</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L22.97 136.06" class="st18"/>
+			</g>
+			<g id="shape2485-554" v:mID="2485" v:groupContext="shape" v:layerMember="0"
+					transform="translate(165.042,156.17) rotate(114.82)">
+				<title>有向线 1.233</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L7.08 136.06" class="st18"/>
+			</g>
+			<g id="shape2486-559" v:mID="2486" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-51.3516,9.7629) rotate(-41.616)">
+				<title>有向线 1.234</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L29.84 136.06" class="st18"/>
+			</g>
+			<g id="shape2487-564" v:mID="2487" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-58.9174,-2.09002) rotate(-37.5277)">
+				<title>有向线 1.235</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L11.98 136.06" class="st18"/>
+			</g>
+			<g id="shape2488-569" v:mID="2488" v:groupContext="shape" v:layerMember="0"
+					transform="translate(135.808,21.2578) rotate(45.3492)">
+				<title>有向线 1.236</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L4.46 136.06" class="st18"/>
+			</g>
+			<g id="shape2489-574" v:mID="2489" v:groupContext="shape" v:layerMember="0"
+					transform="translate(87.1467,-55.3916) rotate(22.5505)">
+				<title>有向线 1.237</title>
+				<v:userDefs>
+					<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				</v:userDefs>
+				<path d="M0 136.06 L11.9 136.06" class="st18"/>
+			</g>
+		</g>
+		<g id="shape2490-579" v:mID="2490" v:groupContext="shape" transform="translate(158.201,212.033) rotate(180)">
+			<title>普通箭头</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L8.67 130.17 L8.67 133.11 L23.41 133.11 L23.41 136.06 L23.41 139.01 L8.67 139.01 L8.67 141.96 L0 136.06
+						 Z" class="st35"/>
+		</g>
+		<g id="shape2491-581" v:mID="2491" v:groupContext="shape" transform="translate(396.665,212.033) rotate(180)">
+			<title>普通箭头.2491</title>
+			<v:userDefs>
+				<v:ud v:nameU="visVersion" v:val="VT0(15):26"/>
+				<v:ud v:nameU="ArrowType" v:prompt="" v:val="VT0(2):26"/>
+			</v:userDefs>
+			<path d="M0 136.06 L8.67 130.17 L8.67 133.11 L23.41 133.11 L23.41 136.06 L23.41 139.01 L8.67 139.01 L8.67 141.96 L0 136.06
+						 Z" class="st35"/>
+		</g>
+	</g>
+</svg>
